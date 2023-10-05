@@ -10,7 +10,7 @@ interface inputProps {
 class Input extends Component<inputProps> {
   render() {
     return (
-      <div >
+      <div className="inputdiv" >
         <label>
           {this.props.label}
           <input

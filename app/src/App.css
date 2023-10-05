@@ -40,10 +40,16 @@
 .read-the-docs {
   color: #888;
 }
-.App{
+.App {
   margin: auto;
-  max-width: 500px;
+  max-width: 600px;
   padding: 25px;
   border-radius: 15px;
   background-color: rgb(181, 240, 240);
+}
+button {
+  margin: 20px;
+}
+input {
+  margin-left: 20px;
 }
