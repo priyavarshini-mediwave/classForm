@@ -4,6 +4,6 @@
 
     npm run dev
 
-### using useState ,Class
+### using State,setState ,Class
 
 ### create components ,use them individually.
